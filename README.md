@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [termux tutorial untuk coding di android 3 | aplikasi code editor di android terbaik dengan termux](https://www.youtube.com/watch?v=XOopmI83soA)
+- [termux tutorial untuk coding di android bagi pemula 3 | aplikasi code editor terbaik dengan termux](https://www.youtube.com/watch?v=XOopmI83soA)
 - [TERMUX TUTORIAL UNTUK CODING DI ANDROID BAGI PEMULA 2 | TERMUX BASIC COMMANDS](https://www.youtube.com/watch?v=YuyNepFytkY)
 - [TERMUX TUTORIAL UNTUK CODING DI ANDROID BAGI PEMULA 1 | CARA INSTALL TERMUX DAN PENGENALAN TERMUX](https://www.youtube.com/watch?v=2e5Vws6GbRQ)
 - [termux tutorial untuk coding di android bagi pemula 0 | INTRO](https://www.youtube.com/watch?v=XcbCoF7EMJk)
