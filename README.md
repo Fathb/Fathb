@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [cara menggunakan aplikasi acode code editor di android part3](https://www.youtube.com/watch?v=ak8yHrRxTSU)
+- [cara menggunakan aplikasi acode code editor di android part2](https://www.youtube.com/watch?v=BJ53eIX0LOw)
 - [cara menggunakan aplikasi acode code editor di android part1](https://www.youtube.com/watch?v=KCvZaYhcTOU)
 - [cara install dan menggunakan sass di android](https://www.youtube.com/watch?v=5B1LFQBJdZE)
 - [nyoba sass di android](https://www.youtube.com/watch?v=h9E1ahReEqo)
-- [belajar termux bagi pemula &lpar;11/11&rpar; | apa saja yang bisa dilakukan termux?](https://www.youtube.com/watch?v=X75bmBM4E80)
-- [belajar termux bagi pemula part&lpar;10/11&rpar; | python web server di android](https://www.youtube.com/watch?v=kgFc_MrwXzI)
 <!-- YOUTUBE:END -->
 
 <!---
