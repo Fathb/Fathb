@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [cara membuat bot whatsapp auto reply di android dengan termux part1](https://www.youtube.com/watch?v=W_B94gccLAo)
+- [cara membuat whatsapp bot auto reply di android dengan termux dan nodejs part1](https://www.youtube.com/watch?v=W_B94gccLAo)
 - [next playlist kita buat ginian | bot whatsapp auto reply](https://www.youtube.com/watch?v=rzlTpqOvFuQ)
 - [cara menggunakan aplikasi acode code editor android part4](https://www.youtube.com/watch?v=70lVsebzzGo)
 - [VUEJS PROJECT, ALMOST DONE](https://www.youtube.com/watch?v=hEw9OfmcaZo)
