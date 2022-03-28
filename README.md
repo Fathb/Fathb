@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [bot wa untuk ppdb - system input data spreadsheet via whatsaapp](https://www.youtube.com/watch?v=nylozKlD5xg)
 - [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part 7](https://www.youtube.com/watch?v=uAYTT7nPjkw)
 - [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part 6.3](https://www.youtube.com/watch?v=zhodiD3BbDI)
 - [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part 6.2](https://www.youtube.com/watch?v=bz0tDYu_rhI)
 - [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part 6.1](https://www.youtube.com/watch?v=bZjSmbhbli0)
-- [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part5](https://www.youtube.com/watch?v=jluCfbV6CwI)
 <!-- YOUTUBE:END -->
 
 <!---
