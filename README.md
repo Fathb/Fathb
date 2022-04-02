@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [S1E09 - membuat bot whatsapp dengan node js - whatsapp bot multi devices](https://www.youtube.com/watch?v=FegYRNKKSKQ)
+- [membuat bot whatsapp dengan node js S1E09 whatsapp bot multi devices](https://www.youtube.com/watch?v=FegYRNKKSKQ)
 - [membuat bot whatsapp dengan node js 8.2 membuat autorespon pada group wa bot](https://www.youtube.com/watch?v=ss4sPn2yGQg)
 - [cara membuat bot whatsapp sendiri di hp android dengan nodejs dan termux part 8.1](https://www.youtube.com/watch?v=a-x3AsgWi6E)
 - [bot wa untuk ppdb - system input data spreadsheet via whatsaapp](https://www.youtube.com/watch?v=nylozKlD5xg)
