@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [S1E5 OPTION DAN DATA PADA FITUR SC BOT WA TERMUX JAVASCRIPT](https://www.youtube.com/watch?v=oBfiDeMMPiM)
+- [S2E5 OPTION DAN DATA PADA FITUR SC BOT WA TERMUX JAVASCRIPT](https://www.youtube.com/watch?v=oBfiDeMMPiM)
 - [tutorial javascript bahasa indonesia 00 intro](https://www.youtube.com/watch?v=gcrUq1RsCNI)
 - [S2E4 ERROR BOT WHATSAPP NYA?? CARA ATASI ERROR BOT WA TERMUX DENGAN JAVASCRIPT](https://www.youtube.com/watch?v=eMVXIXiy0pg)
 - [membuat framework sc bot wa termux dengan javascript](https://www.youtube.com/watch?v=9zvCGpNAiYc)
