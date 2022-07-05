@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [S2E9 MEMBUAT BOT WA DARI NOL DENGAN JAVASCRIPT - CRUD DATABASE DENGAN FILE JSON](https://www.youtube.com/watch?v=2DJECz1_Z5o)
 - [tutorial javascript bahasa indonesia dengan acode 03 tempat menulis code javascript](https://www.youtube.com/watch?v=mw69VYvC-p8)
 - [tutorial javascript bahasa indonesia 02 persiapan](https://www.youtube.com/watch?v=XeXqOUuygF8)
 - [tutorial javascript bahasa indonesia 01 javascript untuk apa?](https://www.youtube.com/watch?v=WrmYeGuaukc)
 - [S2E8 MEMBUAT BOT WA DARI NOL DENGAN JAVASCRIPT - MEMBUAT PREFIXS BOT WHATSAPP](https://www.youtube.com/watch?v=w2Jfwr5pCtM)
-- [S2E7 MEMBUAT BOT WA DARI NOL DENGAN JAVASCRIPT - COMMAND &amp; OPTION DINAMIS BOT WHATSAPP](https://www.youtube.com/watch?v=ESswiUqRG6c)
 <!-- YOUTUBE:END -->
 
 <!---
