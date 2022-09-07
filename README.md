@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [CARA MEMBUAT BOT WHATSAPP DENGAN FITUR STICKER DENGAN TERMUX DAN NODEJS](https://www.youtube.com/watch?v=DUyl_g4m8l0)
+- [bikin FITUR STICKER pada script BOT WA termux](https://www.youtube.com/watch?v=DUyl_g4m8l0)
 - [S2E9 MEMBUAT BOT WA DARI NOL DENGAN JAVASCRIPT - membaca data file json pada script bot wa termux](https://www.youtube.com/watch?v=QoM7TpFOrKk)
 - [nyobain FITUR STICKER pada script BOT WA termux](https://www.youtube.com/watch?v=XA8SlBKBbuU)
 - [tutorial javascript di android dengan aplikasi acode 04 variables](https://www.youtube.com/watch?v=vZ1FsIfwon8)
