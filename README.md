@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [updatee!!! script whatsapp bot bisa nambah autoresponse di google spreadsheet](https://www.youtube.com/watch?v=OF0180sNaMM)
 - [system input data spreadsheet dengan whatsapp bot](https://www.youtube.com/watch?v=b5GwwbGStHc)
 - [praktek dasar percabangan di javascript | tutorial javascript di android dengan acode](https://www.youtube.com/watch?v=GwLieS6wmHU)
 - [tutorial javascript di android | cara menggunakan if, else, switch, case dan ternary operator](https://www.youtube.com/watch?v=Q7DzwCdWDb8)
 - [cara mengganti warna tema vim termux #vim2](https://www.youtube.com/watch?v=dXJNLrXENrg)
-- [tutorial javascript di android dengan aplikasi acode 05 tipe data dan operator](https://www.youtube.com/watch?v=LSq1jV7k8jo)
 <!-- YOUTUBE:END -->
 
 <!---
