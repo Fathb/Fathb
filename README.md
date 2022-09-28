@@ -4,8 +4,8 @@
 # lates youtube videos
 <!-- YOUTUBE:START -->
 - [bikin bot wa termux untuk INPUT DATA ke GOOGLE SPREADSHEET via WHATSAPP](https://www.youtube.com/watch?v=xIn9IBd-2c4)
-- [updatee!!! script whatsapp bot bisa nambah autoresponse di google spreadsheet](https://www.youtube.com/watch?v=OF0180sNaMM)
-- [system input data spreadsheet dengan whatsapp bot](https://www.youtube.com/watch?v=b5GwwbGStHc)
+- [script whatsapp bot bisa nambah autoresponse di google spreadsheet #waspreadsheet_2](https://www.youtube.com/watch?v=OF0180sNaMM)
+- [system input data spreadsheet dengan whatsapp bot #waspreadsheet_1](https://www.youtube.com/watch?v=b5GwwbGStHc)
 - [praktek dasar percabangan di javascript | tutorial javascript di android dengan acode](https://www.youtube.com/watch?v=GwLieS6wmHU)
 - [tutorial javascript di android | cara menggunakan if, else, switch, case dan ternary operator](https://www.youtube.com/watch?v=Q7DzwCdWDb8)
 <!-- YOUTUBE:END -->
