@@ -3,10 +3,10 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [FINISH | tutorial javascript di android dengan aplikasi acode #js10](https://www.youtube.com/watch?v=BOhWQ9Abu6Y)
-- [tutorial javascript di android dengan aplikasi acode | function #js09](https://www.youtube.com/watch?v=3_8mk318wIc)
-- [whatsapp blast message #_5](https://www.youtube.com/watch?v=Vi4Am3vOZVg)
-- [whatsapp number scrapper | bot whatsapp google spreadsheet #_4](https://www.youtube.com/watch?v=DVcqQzKDrds)
+- [FINISH | tutorial javascript di android dengan aplikasi acode #js 10](https://www.youtube.com/watch?v=BOhWQ9Abu6Y)
+- [tutorial javascript di android dengan aplikasi acode | function #js 09](https://www.youtube.com/watch?v=3_8mk318wIc)
+- [whatsapp bot dengan fitur blast message | kirim pesan wa ke banyak nomor #waspreadsheet 5](https://www.youtube.com/watch?v=Vi4Am3vOZVg)
+- [whatsapp number scrapper | bot whatsapp google spreadsheet #waspreadsheet 4](https://www.youtube.com/watch?v=DVcqQzKDrds)
 - [bot wa termux scrap dari spreadsheet](https://www.youtube.com/watch?v=xx_7MMqAbAw)
 <!-- YOUTUBE:END -->
 
