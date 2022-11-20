@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [WHATSAPP BOT REKAP PESANAN DI SPREADSHEET](https://www.youtube.com/watch?v=_41J3GNp5eY)
+- [WHATSAPP BOT LAYANAN TOKO DENGAN SPREADSHEET](https://www.youtube.com/watch?v=9SqL-hs7Ds0)
 - [cara membuat bot wa di termux dengan nodejs untuk group whatsapp #botwa 3](https://www.youtube.com/watch?v=eOrU7Qd3kbQ)
 - [BOT WA TERMUX FITUR BLAST MESSAGE SPREADSHEET #waspreadsheet](https://www.youtube.com/watch?v=YoexCf_Zi0k)
 - [tutorial node js module system | misahin codingan bot wa sticker terbaru #botwa 2](https://www.youtube.com/watch?v=HQQLXM1cpnI)
-- [FINISH | tutorial javascript di android dengan aplikasi acode #js 10](https://www.youtube.com/watch?v=BOhWQ9Abu6Y)
-- [tutorial javascript di android dengan aplikasi acode | function #js 09](https://www.youtube.com/watch?v=3_8mk318wIc)
 <!-- YOUTUBE:END -->
 
 <!---
