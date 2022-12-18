@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [membuat sc bot whatsapp pesan terjadwal dengan nodejs cron job](https://www.youtube.com/watch?v=XMru8VperdI)
-- [WHATSAPP BOT REKAP PESANAN DI SPREADSHEET](https://www.youtube.com/watch?v=_41J3GNp5eY)
-- [WHATSAPP BOT LAYANAN TOKO DENGAN SPREADSHEET](https://www.youtube.com/watch?v=9SqL-hs7Ds0)
-- [cara membuat bot wa di termux dengan nodejs untuk group whatsapp #botwa 3](https://www.youtube.com/watch?v=eOrU7Qd3kbQ)
-- [BOT WA TERMUX FITUR BLAST MESSAGE SPREADSHEET #waspreadsheet](https://www.youtube.com/watch?v=YoexCf_Zi0k)
+- [MEMBUAT SC BOT WA INFORMASI PIALA DUNIA QATAR 2022 #botwa 5](https://www.youtube.com/watch?v=Cgxid9LXJtY)
+- [TUTORIAL BIKIN SC BOT WA TERMUX INFORMASI WORLD CUP QATAR 2022](https://www.youtube.com/watch?v=yZGZVrlIMJ4)
+- [membuat sc bot whatsapp pesan terjadwal dengan nodejs cron job #botwa 4](https://www.youtube.com/watch?v=XMru8VperdI)
+- [BOT WA TERMUX REKAP PESANAN TOKO DI SPREADSHEET](https://www.youtube.com/watch?v=_41J3GNp5eY)
+- [BOT WA TERMUX LAYANAN TOKO ONLINE VIA WHATSAPP](https://www.youtube.com/watch?v=9SqL-hs7Ds0)
 <!-- YOUTUBE:END -->
 
 <!---
