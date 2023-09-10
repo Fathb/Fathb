@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
+- [CARA CODING DI ANDROID - ATUR HP UNTUK CODING DARI 0](https://www.youtube.com/watch?v=d0lyIvtfK54)
+- [SC BOT WHATSAPP GOOGLE SPREADSHEET DENGAN BAILEYS TERBARU](https://www.youtube.com/watch?v=SNP9gjQiIy8)
+- [nyobain baileys terbaru dan membuat bot whatsapp spreadsheet](https://www.youtube.com/watch?v=CkiN38LUml4)
 - [MEMBUAT SC BOT WA INFORMASI PIALA DUNIA QATAR 2022 #botwa 5](https://www.youtube.com/watch?v=Cgxid9LXJtY)
 - [TUTORIAL BIKIN SC BOT WA TERMUX INFORMASI WORLD CUP QATAR 2022](https://www.youtube.com/watch?v=yZGZVrlIMJ4)
-- [membuat sc bot whatsapp pesan terjadwal dengan nodejs cron job #botwa 4](https://www.youtube.com/watch?v=XMru8VperdI)
-- [BOT WA TERMUX REKAP PESANAN TOKO DI SPREADSHEET](https://www.youtube.com/watch?v=_41J3GNp5eY)
-- [BOT WA TERMUX LAYANAN TOKO ONLINE VIA WHATSAPP](https://www.youtube.com/watch?v=9SqL-hs7Ds0)
 <!-- YOUTUBE:END -->
 
 <!---
