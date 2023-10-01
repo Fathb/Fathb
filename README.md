@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [cara menggunakan acode code editor android](https://www.youtube.com/watch?v=zKAqripg1_w)
-- [BIKIN SOURCE CODE WHATSAPP BOT SESSION 3](https://www.youtube.com/watch?v=jYO3sQBQPfI)
-- [CARA CODING DI ANDROID - ATUR HP UNTUK CODING DARI 0](https://www.youtube.com/watch?v=d0lyIvtfK54)
-- [SC BOT WHATSAPP GOOGLE SPREADSHEET DENGAN BAILEYS TERBARU](https://www.youtube.com/watch?v=SNP9gjQiIy8)
-- [nyobain baileys terbaru dan membuat bot whatsapp spreadsheet](https://www.youtube.com/watch?v=CkiN38LUml4)
+- [CARA MEMBUAT BOT WHATSAPP DENGAN GOOGLE SPREADSHEET TANPA CODING](https://www.youtube.com/watch?v=S48gNbMiCDQ)
+- [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - bot wa termux / terminal](https://www.youtube.com/watch?v=0oZv2HZJF58)
+- [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - fitur get data](https://www.youtube.com/watch?v=ML1gT4NlaGQ)
+- [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - fitur input data](https://www.youtube.com/watch?v=xQqz3nF_fh0)
+- [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - fitur menu template auto response](https://www.youtube.com/watch?v=5WLHeHoJE2A)
 <!-- YOUTUBE:END -->
 
 <!---
