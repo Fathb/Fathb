@@ -3,11 +3,11 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [MEMBUAT BOT WA SPREADSHEET DENGAN LAPTOP atau PC Part1](https://www.youtube.com/watch?v=FY7eR8O3btk)
+- [CARA PASANG SC BOT WHATSAPP DI LAPTOP Part2 WA blast](https://www.youtube.com/watch?v=fUcylxUJV6o)
+- [CARA PASANG SC BOT WHATSAPP DI LAPTOP part1](https://www.youtube.com/watch?v=FY7eR8O3btk)
 - [CARA MEMBUAT BOT WHATSAPP DENGAN GOOGLE SPREADSHEET TANPA CODING](https://www.youtube.com/watch?v=S48gNbMiCDQ)
 - [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - bot wa termux / terminal](https://www.youtube.com/watch?v=0oZv2HZJF58)
 - [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - fitur get data](https://www.youtube.com/watch?v=ML1gT4NlaGQ)
-- [CARA MEMBUAT BOT WA SPREADSHEET TANPA CODING - fitur input data](https://www.youtube.com/watch?v=xQqz3nF_fh0)
 <!-- YOUTUBE:END -->
 
 <!---
