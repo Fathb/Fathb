@@ -3,7 +3,7 @@
 
 # lates youtube videos
 <!-- YOUTUBE:START -->
-- [MEMBUAT TOKO ONLINE WHATSAPP DENGAN SPREADSHEET Part4](https://www.youtube.com/watch?v=iv4yELUAdAw)
+- [CARA MEMBUAT BOT WHATSAPP UNTUK TOKO ONLINE Part4](https://www.youtube.com/watch?v=iv4yELUAdAw)
 - [CARA PASANG SC BOT WHATSAPP SPREADSHEET part3](https://www.youtube.com/watch?v=SyvIIsLqauk)
 - [CARA PASANG SC BOT WHATSAPP DI LAPTOP Part2 WA blast](https://www.youtube.com/watch?v=fUcylxUJV6o)
 - [CARA PASANG SC BOT WHATSAPP DI LAPTOP part1](https://www.youtube.com/watch?v=FY7eR8O3btk)
